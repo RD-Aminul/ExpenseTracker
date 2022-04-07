@@ -1,6 +1,5 @@
 >***INSTALLATION***
 ```
-
 ##STEP - 1
 Download & Extract ExpenseTracker File.
 
